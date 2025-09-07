@@ -45,3 +45,5 @@ DAX (Data Analysis Expressions) → For KPIs & calculated measures (CPA, CTR, RO
 Data Modeling → For creating relationships and deriving insights.
 
 Excel / CSV → For raw data preparation and cleaning.
+
+✨ If you find this project helpful, don’t forget to star ⭐ this repo and share your feedback!
